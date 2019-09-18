@@ -6,7 +6,6 @@
 下载：
 ```
 https://flutter.dev/docs/development/tools/sdk/releases?tab=macos
-
 ```
 解压
 unzip ~/Downloads/flutter_macos_v1.7.8+hotfix.3-stable.zip
