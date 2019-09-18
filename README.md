@@ -69,17 +69,27 @@ open -a Simulator
 
 截图1
 
-![](https://github.com/yky138495/HistoryToday/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-09-17%20at%2016.45.38.png?raw=true))
+![](https://github.com/yky138495/ZhihuDaily/blob/master/img/1.png?raw=true))
 
 
 
 截图2
 
-![](https://github.com/yky138495/HistoryToday/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-09-17%20at%2016.45.40.png?raw=true)
+![](https://github.com/yky138495/ZhihuDaily/blob/master/img/2.png?raw=true)
 
 
 
 截图3
 
-![](https://github.com/yky138495/HistoryToday/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-09-17%20at%2016.45.42.png?raw=true)
+![](https://github.com/yky138495/ZhihuDaily/blob/master/img/3.png?raw=true)
+
+
+截图4
+
+![](https://github.com/yky138495/ZhihuDaily/blob/master/img/4.png?raw=true)
+
+
+截图5
+
+![](https://github.com/yky138495/ZhihuDaily/blob/master/img/5.png?raw=true)
 
